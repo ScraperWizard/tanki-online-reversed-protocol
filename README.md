@@ -20,16 +20,6 @@ This repo containes a fully reversed Tanki client that lets you connect to the s
 
 ---
 
-**A Little Background:**
-
-This project was my first real programming venture, created over three years ago. The code may not be perfect, and it's lacking some structure, but it gets the job done. I’ve kept it around as a reminder
-
----
-
-**Clicker History:**
-
-For years, **server clicks** have shifted the balance of power between clans in Parkour. Thousands of hours and dollars went into clickers. Now, its open sourced
-
 **Disclaimer:**
 
 This project is intended solely for educational purposes. If any individual or entity finds the content objectionable or in violation of any terms, please feel free to contact me directly at ```Discord: beaks_```. I will address your concerns and take appropriate action, including removal if necessary.
